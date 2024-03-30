@@ -18,4 +18,4 @@ based on the system time. This messes up color calculations, so background 3
 must be disabled during the shiny detection process.
 
 # Step 4: Use shiny.py
-You can copy and paste the contents from shiny.py into your 
+Make a file and copy and paste the contents from shiny.py into that file. 
