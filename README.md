@@ -10,3 +10,12 @@ Ensure you have an IDE, Python installed, and mGBA
 This script works with ROM hacks as well.
 ### [Pokemon Fire Red](https://archive.org/download/1636PokemonFireRedUSquirrels)
 ### [Check out ROM hacks here](https://www.pokecommunity.com/forums/rom-hacks-showcase.184/)
+
+# Step 3: Adjust mGBA settings
+Open mGBA. Go to Audio/Video -> Video layers -> disable background 3.
+This is because most pokemon games have the background change (the grass and sky)
+based on the system time. This messes up color calculations, so background 3
+must be disabled during the shiny detection process.
+
+# Step 4: Use shiny.py
+You can copy and paste the contents from shiny.py into your 
