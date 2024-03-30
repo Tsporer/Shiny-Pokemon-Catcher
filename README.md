@@ -23,6 +23,6 @@ git clone https://github.com/Tsporer/Shiny-Pokemon-Catcher.git
 
 Go through the shiny.py steps and fill it in where necessary. Start the script
 by typing python3 shiny.py into the terminal.
-## Make sure the run the script when you have encountered a pokemon. When the 
-## game says something along the lines of "______ has appeared!", you should run
-## the script from that point.
+#### Make sure the run the script when you have encountered a pokemon. When the game says something along the lines of "______ has appeared!", you should run the script from that point.
+
+After all that, you should be on your way to finding shiny pokemon. In many games, the chances are 1/4096 or 1/8192, so give the script time to work.
